@@ -1,0 +1,2 @@
+//Instructions
+To use: You'll need to select your appropriate Excel sheet template from the selector node or use standed file included. Freez any input functionality not needed otherwise graph will run with errors. Tool uses standard Dynamo (v2.0.1) nodes so no need to install any custom packages. 
